@@ -2,7 +2,7 @@
 
 <h3 align="center">Un Argentino viviendo en España, apasionado por el desarrollo Frontend</h3>
 
-- 🔭 Me encuentro estudiando y trabajando en proyectos personales a modo de practica como: <br>- [Guia de personajes de One Piece](https://facuareosa.github.io/onePiece_Facu/)<br>- [Encriptador de Mensajes Ghost Encryptor](https://facuareosa.github.io/GhostEncryptorByFacu/)<br>-[The Boathouse hospedaje](https://facuareosa.github.io/the_boathouse/)
+- 🔭 Me encuentro estudiando y trabajando en proyectos personales a modo de practica como: <br>- [Guia de personajes de One Piece](https://facuareosa.github.io/onePiece_Facu/)<br>- [Encriptador de Mensajes Ghost Encryptor](https://facuareosa.github.io/GhostEncryptorByFacu/)<br>- [The Boathouse hospedaje](https://facuareosa.github.io/the_boathouse/)
 
 - 🌱 Estudiando con AluraLatam y de forma autodidacta **HTML5, CCS, Javascript, Bootstrap**
 
